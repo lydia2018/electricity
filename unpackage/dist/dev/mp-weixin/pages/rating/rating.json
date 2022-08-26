@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商品评价",
+  "usingComponents": {
+    "mix-nav-bar": "/components/mix-nav-bar/mix-nav-bar",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "rating-item": "/pages/rating/components/rating-item"
+  }
+}

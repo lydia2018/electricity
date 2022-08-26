@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收货地址",
+  "usingComponents": {
+    "mix-button": "/components/mix-button/mix-button",
+    "mix-modal": "/components/mix-modal/mix-modal",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "mix-empty": "/components/mix-empty/mix-empty"
+  }
+}

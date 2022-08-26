@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+page, .content {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  background-color: #000;
+  padding-top: 25px;
+}
+.title-view {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: transparent;
+}
+.title-view .back-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 42px;
+  height: 40px;
+  font-size: 18px;
+  color: #fff;
+}
+.title-view .title {
+  font-size: 17px;
+  color: #fff;
+}
+.title-view .empty {
+  width: 42px;
+}
+.cropper {
+  width: 100%;
+  flex: 1;
+}
+.cropper-wrapper {
+  flex: 1;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: #000;
+}
+.cropper-buttons {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.cropper-buttons .btn {
+  width: 100px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 15px;
+  color: #fff;
+}
+.cropper-buttons .btn.upload {
+  padding-left: 20px;
+}
+.cropper-buttons .btn.getCropperImage {
+  padding-right: 20px;
+  text-align: right;
+}
+

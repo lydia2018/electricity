@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.mix-list-cell.data-v-4f1879c6 {
+  display: flex;
+  align-items: center;
+  height: 96rpx;
+  padding: 0 24rpx;
+  position: relative;
+}
+.mix-list-cell.cell-hover.data-v-4f1879c6 {
+  background: #fafafa;
+}
+.mix-list-cell.b-b.data-v-4f1879c6:after {
+  left: 30rpx;
+  border-color: #f0f0f0;
+}
+.mix-list-cell .cell-icon.data-v-4f1879c6 {
+  align-self: center;
+  width: 60rpx;
+  font-size: 38rpx;
+}
+.mix-list-cell .cell-icon.icon-tuanduiguanli.data-v-4f1879c6 {
+  font-size: 42rpx;
+}
+.mix-list-cell .cell-more.data-v-4f1879c6 {
+  align-self: center;
+  font-size: 24rpx;
+  color: #999;
+  margin-left: 16rpx;
+}
+.mix-list-cell .cell-tit.data-v-4f1879c6 {
+  flex: 1;
+  font-size: 30rpx;
+  color: #333;
+  margin-right: 10rpx;
+}
+.mix-list-cell .cell-tip.data-v-4f1879c6 {
+  font-size: 26rpx;
+}
+

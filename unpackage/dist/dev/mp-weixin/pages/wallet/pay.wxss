@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.app.data-v-774fddcb {
+  padding: 0 80rpx;
+  align-items: center;
+}
+.app.data-v-774fddcb .mix-btn-content {
+  width: 560rpx;
+}
+.price-wrapper.data-v-774fddcb {
+  background-color: #fff;
+  height: 260rpx;
+  font-size: 28rpx;
+  color: #909399;
+}
+.price-wrapper .price.data-v-774fddcb {
+  font-size: 56rpx;
+  color: #333;
+  margin-top: 20rpx;
+  font-weight: 600;
+}
+.price-wrapper .price.data-v-774fddcb:before {
+  content: '￥';
+  font-size: 40rpx;
+}
+.cell.data-v-774fddcb {
+  width: 100%;
+  height: 124rpx;
+}
+.cell .icon.data-v-774fddcb {
+  width: 44rpx;
+  height: 44rpx;
+  margin-right: 32rpx;
+}
+.cell .tit.data-v-774fddcb {
+  flex: 1;
+  font-size: 30rpx;
+  color: #333;
+  font-weight: 700;
+}
+.cell .tip.data-v-774fddcb {
+  margin-top: 14rpx;
+  font-size: 24rpx;
+  color: #999;
+}
+.cell .icon-xuanzhong.data-v-774fddcb {
+  font-size: 36rpx;
+  color: #ff536f;
+}
+

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.pic.data-v-13365511 {
+  width: 530rpx;
+  height: 600rpx;
+}
+.icon-close.data-v-13365511 {
+  padding: 20rpx 40rpx;
+  margin-top: 20rpx;
+  font-size: 48rpx;
+  color: #fff;
+}
+

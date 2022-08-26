@@ -1,0 +1,198 @@
+
+page{
+	background-color: #f7f7f7;
+}
+
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.app.data-v-2bf7e0f3 {
+  padding-bottom: 20rpx;
+}
+.top.data-v-2bf7e0f3 {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(25px + 52rpx);
+  padding-bottom: 6rpx;
+}
+.top .u-bg.data-v-2bf7e0f3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 330rpx;
+}
+.top .user-wrapper.data-v-2bf7e0f3 {
+  display: flex;
+  flex-direction: column;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  z-index: 5;
+  padding: 20rpx 30rpx 60rpx;
+}
+.top .login-box.data-v-2bf7e0f3 {
+  font-size: 36rpx;
+  color: #fff;
+}
+.top .avatar.data-v-2bf7e0f3 {
+  flex-shrink: 0;
+  width: 130rpx;
+  height: 130rpx;
+  border-radius: 100px;
+  margin-right: 24rpx;
+  border: 4rpx solid #fff;
+  background-color: #fff;
+}
+.top .username.data-v-2bf7e0f3 {
+  font-size: 34rpx;
+  color: #fff;
+}
+.top .user-group.data-v-2bf7e0f3 {
+  align-self: flex-start;
+  padding: 10rpx 16rpx;
+  margin-top: 16rpx;
+  font-size: 20rpx;
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 100rpx;
+}
+.top .arc-line.data-v-2bf7e0f3 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 9;
+  width: 100%;
+  height: 32rpx;
+}
+.money-wrap.data-v-2bf7e0f3 {
+  display: flex;
+  justify-content: space-around;
+  width: 700rpx;
+  margin: 6rpx auto 0;
+  padding: 14rpx 0;
+  background: #fff;
+  border-radius: 10rpx;
+}
+.money-wrap .item.data-v-2bf7e0f3 {
+  flex-direction: column;
+  width: 130rpx;
+  height: 120rpx;
+  border-radius: 8rpx;
+  font-size: 24rpx;
+  color: #606266;
+}
+.money-wrap .num.data-v-2bf7e0f3 {
+  margin-bottom: 20rpx;
+  font-size: 32rpx;
+  color: #333;
+  font-weight: 700;
+}
+.order-wrap.data-v-2bf7e0f3 {
+  width: 700rpx;
+  margin: 20rpx auto 0;
+  background: #fff;
+  border-radius: 10rpx;
+}
+.order-wrap .o-header.data-v-2bf7e0f3 {
+  padding: 28rpx 20rpx 6rpx 26rpx;
+}
+.order-wrap .o-header .tit.data-v-2bf7e0f3 {
+  flex: 1;
+  font-size: 32rpx;
+  color: #333;
+  font-weight: 700;
+}
+.order-wrap .o-header .more.data-v-2bf7e0f3 {
+  font-size: 24rpx;
+  color: #999;
+}
+.order-wrap .o-header .icon-you.data-v-2bf7e0f3 {
+  margin-left: 4rpx;
+  font-size: 20rpx;
+  color: #999;
+}
+.order-wrap .o-list.data-v-2bf7e0f3 {
+  display: flex;
+  justify-content: space-around;
+  padding: 20rpx 0;
+}
+.order-wrap .item.data-v-2bf7e0f3 {
+  flex-direction: column;
+  width: 130rpx;
+  height: 130rpx;
+  border-radius: 8rpx;
+  font-size: 24rpx;
+  color: #606266;
+  position: relative;
+}
+.order-wrap .item .mix-icon.data-v-2bf7e0f3 {
+  font-size: 50rpx;
+  margin-bottom: 20rpx;
+  color: #ff536f;
+}
+.order-wrap .item .icon-shouhoutuikuan.data-v-2bf7e0f3 {
+  font-size: 44rpx;
+}
+.order-wrap .number.data-v-2bf7e0f3 {
+  position: absolute;
+  right: 22rpx;
+  top: 6rpx;
+  min-width: 34rpx;
+  height: 34rpx;
+  line-height: 30rpx;
+  text-align: center;
+  padding: 0 8rpx;
+  font-size: 18rpx;
+  color: #fff;
+  border: 2rpx solid #fff;
+  background-color: #ff536f;
+  border-radius: 100rpx;
+}
+.option-wrap.data-v-2bf7e0f3 {
+  width: 700rpx;
+  margin: 20rpx auto 0;
+  margin-top: 20rpx;
+  background: #fff;
+  border-radius: 10rpx;
+}
+.option-wrap .sec-header.data-v-2bf7e0f3 {
+  padding: 26rpx 14rpx 0 24rpx;
+  font-size: 28rpx;
+  color: #333;
+}
+.option-wrap .sec-header .icon-lishijilu.data-v-2bf7e0f3 {
+  font-size: 46rpx;
+  color: #50bf8b;
+  margin-right: 16rpx;
+  line-height: 40rpx;
+}
+.option-wrap .sec-header .icon-lajitong.data-v-2bf7e0f3 {
+  padding: 4rpx 10rpx;
+  font-size: 36rpx;
+  color: #999;
+}
+.option-wrap .pro-list.data-v-2bf7e0f3 {
+  flex-wrap: nowrap;
+  padding: 20rpx 0 12rpx;
+}
+.option-wrap .pro-list.data-v-2bf7e0f3:before, .option-wrap .pro-list.data-v-2bf7e0f3:after {
+  content: '';
+  min-width: 30rpx;
+  height: 30rpx;
+}
+.option-wrap .pro-list.data-v-2bf7e0f3:after {
+  min-width: 20rpx;
+}
+.option-wrap .pro-list image.data-v-2bf7e0f3 {
+  flex-shrink: 0;
+  width: 144rpx;
+  height: 144rpx;
+  margin-right: 16rpx;
+  border-radius: 8rpx;
+}
+

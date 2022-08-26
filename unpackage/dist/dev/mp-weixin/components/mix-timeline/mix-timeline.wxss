@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.cell.data-v-2e14aac4 {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  padding: 0 30rpx 0;
+}
+.cell:first-child .circle.data-v-2e14aac4:before {
+  background-color: #ff536f;
+}
+.cell:first-child .circle.data-v-2e14aac4:after {
+  content: '';
+  position: absolute;
+  width: 28rpx;
+  height: 28rpx;
+  background-color: #f9e0eb;
+  border-radius: 100rpx;
+}
+.cell:last-child .right.data-v-2e14aac4:before {
+  display: none;
+}
+.left .time.data-v-2e14aac4 {
+  font-size: 26rpx;
+  color: #333;
+  line-height: 44rpx;
+}
+.left .date.data-v-2e14aac4 {
+  font-size: 20rpx;
+  color: #333;
+}
+.cen.data-v-2e14aac4 {
+  width: 80rpx;
+  height: 44rpx;
+}
+.cen .circle.data-v-2e14aac4 {
+  width: 16rpx;
+  height: 16rpx;
+  position: relative;
+  z-index: 1;
+}
+.cen .circle.data-v-2e14aac4:before {
+  content: '';
+  width: 16rpx;
+  height: 16rpx;
+  background-color: #ddd;
+  border-radius: 100rpx;
+  position: relative;
+  z-index: 5;
+}
+.right.data-v-2e14aac4 {
+  flex: 1;
+  padding-bottom: 30rpx;
+  position: relative;
+  min-height: 96rpx;
+}
+.right.data-v-2e14aac4:before {
+  content: '';
+  width: 2rpx;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #ddd;
+  -webkit-transform: translate(-42rpx, 22rpx);
+          transform: translate(-42rpx, 22rpx);
+}
+.right .title.data-v-2e14aac4 {
+  font-size: 28rpx;
+  color: #333;
+  line-height: 44rpx;
+  font-weight: 700;
+}
+.right .tip.data-v-2e14aac4 {
+  margin-top: 6rpx;
+  font-size: 24rpx;
+  color: #999;
+  line-height: 36rpx;
+}
+

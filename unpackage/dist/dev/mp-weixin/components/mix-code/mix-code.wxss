@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.mix-get-code.data-v-bc2bc078 {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 36rpx;
+}
+.mix-get-code.data-v-bc2bc078:before {
+  content: '';
+  width: 0;
+  height: 40;
+  border-right: 1px solid #f0f0f0;
+}
+.mix-get-code .loading.data-v-bc2bc078 {
+  margin-right: 8rpx;
+}
+.mix-get-code .text.data-v-bc2bc078 {
+  line-height: 28rpx;
+  font-size: 26rpx;
+  color: #40a2ff;
+}
+.mix-get-code .text.disabled.data-v-bc2bc078 {
+  color: #ccc;
+}
+

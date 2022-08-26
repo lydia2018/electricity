@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "backgroundColorTop": "#f7f7f7",
+  "navigationBarBackgroundColor": "#f7f7f7",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "mix-timeline": "/components/mix-timeline/mix-timeline",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "mix-modal": "/components/mix-modal/mix-modal",
+    "mix-action-sheet": "/components/mix-action-sheet/mix-action-sheet",
+    "product-list": "/pages/order/components/product-list"
+  }
+}

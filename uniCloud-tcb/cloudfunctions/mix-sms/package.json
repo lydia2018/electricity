@@ -1,0 +1,12 @@
+{
+	"name": "mix-sms",
+	"version": "1.0.0",
+	"description": "发送短信",
+	"main": "index.js",
+	"author": "yt",
+	"license": "ISC",
+	"dependencies": {
+		"@alicloud/pop-core": "^1.7.9",
+		"config": "file:../common/config"
+	}
+}

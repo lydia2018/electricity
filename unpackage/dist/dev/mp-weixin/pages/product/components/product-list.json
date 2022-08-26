@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mix-price-view": "/components/mix-price-view/mix-price-view"
+  }
+}

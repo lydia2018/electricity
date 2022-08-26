@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "product-list": "/pages/order/components/product-list",
+    "coupon-select": "/pages/order/components/coupon-select"
+  }
+}

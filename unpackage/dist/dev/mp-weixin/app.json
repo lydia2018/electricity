@@ -1,0 +1,102 @@
+{
+  "pages": [
+    "pages/tabbar/home",
+    "pages/auth/login",
+    "pages/auth/register",
+    "pages/auth/retrievePassword",
+    "pages/tabbar/category",
+    "pages/tabbar/cart",
+    "pages/tabbar/user",
+    "pages/auth/payPassword",
+    "pages/auth/bindMobile",
+    "pages/set/userInfo",
+    "pages/set/set",
+    "pages/set/about",
+    "pages/set/cutImage/cut",
+    "pages/public/article",
+    "pages/public/service",
+    "pages/public/sharePage",
+    "pages/public/web-view",
+    "pages/address/list",
+    "pages/address/manage",
+    "pages/chooseAddress/index",
+    "pages/chooseAddress/search",
+    "pages/chooseAddress/cityList",
+    "pages/search/search",
+    "pages/product/list",
+    "pages/product/detail",
+    "pages/rating/rating",
+    "pages/rating/add",
+    "pages/favorite/favorite",
+    "pages/order/createOrder",
+    "pages/order/list",
+    "pages/order/detail",
+    "pages/order/express",
+    "pages/order/refundProducts",
+    "pages/order/refundExpress",
+    "pages/feedback/feedback",
+    "pages/notice/notice",
+    "pages/wallet/index",
+    "pages/wallet/pay",
+    "pages/wallet/recLog",
+    "pages/wallet/moneyLog",
+    "pages/wallet/withdraw",
+    "pages/coupon/receiveCoupon",
+    "pages/coupon/userCoupon",
+    "pages/distribution/index",
+    "pages/distribution/team",
+    "pages/distribution/team1",
+    "pages/distribution/order",
+    "pages/distribution/moneyLog"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "创云商城",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#f8f8f8",
+    "pageOrientation": "portrait"
+  },
+  "tabBar": {
+    "color": "#C0C4CC",
+    "selectedColor": "#ff536f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/home",
+        "iconPath": "static/tabbar/tab-home.png",
+        "selectedIconPath": "static/tabbar/tab-home-current.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabbar/category",
+        "iconPath": "static/tabbar/tab-cate.png",
+        "selectedIconPath": "static/tabbar/tab-cate-current.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/tabbar/cart",
+        "iconPath": "static/tabbar/tab-cart.png",
+        "selectedIconPath": "static/tabbar/tab-cart-current.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/tabbar/user",
+        "iconPath": "static/tabbar/tab-user.png",
+        "selectedIconPath": "static/tabbar/tab-user-current.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "需要使用您的位置定位收货地点"
+    }
+  },
+  "usingComponents": {
+    "mescroll-body": "/components/mescroll-uni/mescroll-body",
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+page {
+  background: #f8f8f8;
+}
+
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.logo-wrapper.data-v-6eb25112 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 380rpx;
+}
+.logo-wrapper .logo.data-v-6eb25112 {
+  width: 140rpx;
+  height: 140rpx;
+  background-color: #fff;
+  border-radius: 16rpx;
+}
+.logo-wrapper .version.data-v-6eb25112 {
+  font-size: 26rpx;
+  color: #333;
+  margin-top: 26rpx;
+}
+.list-cell.data-v-6eb25112 {
+  display: flex;
+  align-items: center;
+  padding: 0 40rpx;
+  width: 100%;
+  height: 94rpx;
+  position: relative;
+  background: #fff;
+  justify-content: center;
+}
+.list-cell.b-b.data-v-6eb25112:after {
+  left: 40rpx;
+}
+.list-cell .icon-you.data-v-6eb25112 {
+  font-size: 24rpx;
+  color: #999;
+  margin-left: 10rpx;
+}
+.list-cell .cell-tit.data-v-6eb25112 {
+  flex: 1;
+  font-size: 30rpx;
+  color: #333;
+  margin-right: 10rpx;
+}
+.bus.data-v-6eb25112 {
+  display: flex;
+  justify-content: center;
+  font-size: 26rpx;
+  color: #999;
+  position: absolute;
+  left: 0;
+  bottom: 60rpx;
+  width: 100%;
+}
+.bus .icon.data-v-6eb25112 {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 10rpx;
+}
+

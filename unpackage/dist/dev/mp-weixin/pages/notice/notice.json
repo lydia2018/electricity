@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "通知",
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading"
+  }
+}

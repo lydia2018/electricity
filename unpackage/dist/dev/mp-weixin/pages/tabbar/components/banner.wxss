@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.home-banner.data-v-7882da4d {
+  position: relative;
+  background-color: #fff;
+}
+.swiper.data-v-7882da4d {
+  width: 750rpx;
+  height: 310rpx;
+  padding-top: 10rpx;
+}
+.pic.data-v-7882da4d {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 16rpx;
+  -webkit-transform: scale(0.94, 0.88);
+          transform: scale(0.94, 0.88);
+  transition: -webkit-transform .36s;
+  transition: transform .36s;
+  transition: transform .36s, -webkit-transform .36s;
+}
+.pic.current.data-v-7882da4d {
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.dots.data-v-7882da4d {
+  position: absolute;
+  left: 0;
+  bottom: 12rpx;
+  width: 100%;
+}
+.dot.data-v-7882da4d {
+  width: 32rpx;
+  height: 8rpx;
+  margin: 0 6rpx;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.dot.current.data-v-7882da4d {
+  background-color: #ff536f;
+}
+

@@ -1,0 +1,19 @@
+{
+	"name": "mix-admin",
+	"version": "1.0.0",
+	"description": "后台管理",
+	"main": "index.js",
+	"author": "yt",
+	"license": "ISC",
+	"dependencies": {
+		"config": "file:../common/config",
+		"node-xlsx": "^0.17.2",
+		"uni-id-admin": "file:../common/uni-id-admin",
+		"unipay": "file:../common/unipay"
+	},
+	"cloudfunction-config": {
+		"memorySize": 1024,
+		"timeout": 20,
+		"runtime": "Nodejs8"
+	}
+}

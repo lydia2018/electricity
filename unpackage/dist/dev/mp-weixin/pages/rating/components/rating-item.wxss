@@ -1,0 +1,105 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.mix-rating-item.data-v-0fc4e4d3 {
+  padding: 30rpx 0 30rpx;
+}
+.mix-rating-item.data-v-0fc4e4d3:last-child:after {
+  border: 0;
+}
+.wrap.data-v-0fc4e4d3 {
+  display: flex;
+}
+.avatar-wrap.data-v-0fc4e4d3 {
+  width: 80rpx;
+  height: 80rpx;
+  position: relative;
+}
+.avatar-wrap .avatar.data-v-0fc4e4d3 {
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 100px;
+}
+.avatar-wrap .crown.data-v-0fc4e4d3 {
+  position: absolute;
+  width: 40rpx;
+  height: 40rpx;
+  z-index: 1;
+  left: -16rpx;
+  top: -14rpx;
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+}
+.avatar-wrap .mix-icon.data-v-0fc4e4d3 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  font-size: 28rpx;
+  color: #ff536f;
+  border-radius: 100rpx;
+  border: 2rpx solid #fff;
+  background-color: #fff;
+}
+.right.data-v-0fc4e4d3 {
+  padding-left: 26rpx;
+}
+.right .name.data-v-0fc4e4d3 {
+  margin-right: 40rpx;
+  font-size: 28rpx;
+  color: #666;
+}
+.right .icon-shoucang_xuanzhongzhuangtai.data-v-0fc4e4d3 {
+  margin-right: 6rpx;
+  font-size: 28rpx;
+  color: #ddd;
+}
+.right .icon-shoucang_xuanzhongzhuangtai.active.data-v-0fc4e4d3 {
+  color: #ffd600;
+}
+.right .con.data-v-0fc4e4d3 {
+  font-size: 28rpx;
+  color: #333;
+  padding: 20rpx 0;
+  line-height: 1.4;
+}
+.right .bot.data-v-0fc4e4d3 {
+  justify-content: space-between;
+  font-size: 24rpx;
+  color: #999;
+}
+.right .attr.data-v-0fc4e4d3 {
+  width: 350rpx;
+  text-align: right;
+}
+.pic-wrap.data-v-0fc4e4d3 {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 8rpx;
+}
+.pic-wrap .pic.data-v-0fc4e4d3 {
+  width: 184rpx;
+  height: 180rpx;
+  margin: 0 12rpx 12rpx 0;
+  border-radius: 8rpx;
+}
+.pic-wrap .pic.no-mr.data-v-0fc4e4d3 {
+  margin-right: 0;
+}
+.replay-wrap.data-v-0fc4e4d3 {
+  display: flex;
+  margin: 24rpx 0 0 100rpx;
+  padding: 12rpx 20rpx;
+  background-color: #f7f7f7;
+  border-radius: 8rpx;
+}
+.replay-wrap text.data-v-0fc4e4d3 {
+  font-size: 24rpx;
+  color: #888;
+  line-height: 1.6;
+}
+

@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.search-wrap.data-v-4cedc0c6 {
+  padding-left: 24rpx;
+  height: 100rpx;
+}
+.search-wrap .icon-sousuo.data-v-4cedc0c6 {
+  padding: 0 12rpx 0 20rpx;
+  font-size: 40rpx;
+  color: #999;
+}
+.search-wrap .input-box.data-v-4cedc0c6 {
+  width: 604rpx;
+  height: 80rpx;
+  border-radius: 100rpx;
+  background: #f5f6f7;
+}
+.search-wrap .input.data-v-4cedc0c6 {
+  flex: 1;
+  font-size: 30rpx;
+  color: #333;
+}
+.search-wrap .icon-guanbi2.data-v-4cedc0c6 {
+  padding: 10rpx 20rpx;
+  font-size: 32rpx;
+  color: #999;
+}
+.search-wrap .search-btn.data-v-4cedc0c6 {
+  flex-shrink: 0;
+  padding: 0 24rpx 0 20rpx;
+  font-size: 32rpx;
+  color: #007aff;
+}
+.content.data-v-4cedc0c6 {
+  flex: 1;
+  padding-top: 24rpx;
+  border-radius: 28rpx 28rpx 0 0;
+  background-color: #fff;
+}
+.s-header.data-v-4cedc0c6 {
+  height: 80rpx;
+  padding: 0 32rpx 0 40rpx;
+}
+.s-header .tit.data-v-4cedc0c6 {
+  flex: 1;
+  font-size: 30rpx;
+  color: #333;
+  font-weight: 700;
+}
+.s-header .icon-lajitong.data-v-4cedc0c6 {
+  padding: 10rpx;
+  font-size: 36rpx;
+  color: #333;
+}
+.list.data-v-4cedc0c6 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10rpx 0 0 36rpx;
+}
+.list .item.data-v-4cedc0c6 {
+  min-width: 60rpx;
+  height: 58rpx;
+  padding: 0 24rpx;
+  margin: 0 24rpx 24rpx 0;
+  border-radius: 100rpx;
+  background-color: #f5f6f7;
+  font-size: 26rpx;
+  color: #666;
+}
+

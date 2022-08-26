@@ -1,0 +1,129 @@
+
+page{
+	background-color: #f7f7f7;
+}
+
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.item.data-v-f5981288 {
+  width: 710rpx;
+  padding-bottom: 24rpx;
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+  background-color: #fff;
+  border-radius: 12rpx;
+}
+.b-b.data-v-f5981288:after {
+  left: 4rpx;
+  right: 4rpx;
+  border-color: #e5e5e5;
+}
+.i-header.data-v-f5981288 {
+  height: 80rpx;
+  padding: 0 24rpx;
+  margin-bottom: 24rpx;
+}
+.i-header .time.data-v-f5981288 {
+  font-size: 26rpx;
+  color: #999;
+}
+.i-header .state.data-v-f5981288 {
+  font-size: 30rpx;
+  color: #ff536f;
+}
+.i-header .state.gray.data-v-f5981288 {
+  color: #999;
+}
+.i-header .state.suc.data-v-f5981288 {
+  color: #1dcf1d;
+}
+.scroll-view.data-v-f5981288 {
+  width: 100%;
+  height: 150rpx;
+}
+.scroll-view .goods-list.data-v-f5981288 {
+  display: flex;
+}
+.scroll-view .goods-list.data-v-f5981288::before, .scroll-view .goods-list.data-v-f5981288::after {
+  content: '';
+  width: 20rpx;
+  height: 130rpx;
+  flex-shrink: 0;
+}
+.scroll-view .goods-list.data-v-f5981288::after {
+  width: 10rpx;
+}
+.scroll-view .goods-list .image-wrapper.data-v-f5981288 {
+  flex-shrink: 0;
+  width: 130rpx;
+  height: 130rpx;
+  margin-right: 16rpx;
+  border-radius: 4rpx;
+  overflow: hidden;
+}
+.scroll-view .goods-list image.data-v-f5981288 {
+  width: 100%;
+  height: 100%;
+}
+.goods-wrap.data-v-f5981288 {
+  padding: 0 20rpx;
+}
+.goods-wrap .image-wrapper.data-v-f5981288 {
+  width: 130rpx;
+  height: 130rpx;
+  border-radius: 4rpx;
+  overflow: hidden;
+}
+.goods-wrap .image-wrapper image.data-v-f5981288 {
+  width: 100%;
+  height: 100%;
+}
+.goods-wrap .right.data-v-f5981288 {
+  flex: 1;
+  padding-left: 20rpx;
+  overflow: hidden;
+}
+.goods-wrap .title.data-v-f5981288 {
+  font-size: 28rpx;
+  color: #333;
+}
+.goods-wrap .attr.data-v-f5981288 {
+  margin: 16rpx 0 20rpx;
+  min-height: 30rpx;
+  font-size: 24rpx;
+  color: #999;
+}
+.goods-wrap .r-b.data-v-f5981288 {
+  display: flex;
+  height: 30rpx;
+}
+.goods-wrap .price.data-v-f5981288 {
+  font-size: 28rpx;
+  color: #333;
+  font-weight: normal;
+}
+.goods-wrap .number.data-v-f5981288 {
+  margin-left: 16rpx;
+  font-size: 26rpx;
+  color: #999;
+}
+.price-wrap.data-v-f5981288 {
+  padding: 30rpx 24rpx 4rpx;
+  margin-top: 12rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.price-wrap .p-bot.data-v-f5981288 {
+  display: flex;
+  margin-top: 16rpx;
+}
+.price-wrap .price.data-v-f5981288 {
+  font-size: 30rpx;
+  font-weight: 700;
+}
+

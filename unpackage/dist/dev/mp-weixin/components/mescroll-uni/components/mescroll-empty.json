@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mix-empty": "/components/mix-empty/mix-empty"
+  }
+}

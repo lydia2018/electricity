@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "支付",
+  "usingComponents": {
+    "mix-button": "/components/mix-button/mix-button",
+    "pay-password-keyboard": "/components/pay-password-keyboard/pay-password-keyboard",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "mix-modal": "/components/mix-modal/mix-modal",
+    "success-modal": "/pages/wallet/components/success-modal"
+  }
+}

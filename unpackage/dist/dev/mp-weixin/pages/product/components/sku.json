@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "mix-number-box": "/components/mix-number-box/mix-number-box"
+  },
+  "component": true
+}

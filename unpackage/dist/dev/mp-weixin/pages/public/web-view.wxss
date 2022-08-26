@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.back-btn.data-v-729d9e0a {
+  position: fixed;
+  right: 30rpx;
+  bottom: 100rpx;
+  z-index: 9999;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 200rpx;
+  background: linear-gradient(to right top, #db2b36, #fa725d);
+  /* box-shadow: 2rpx 2rpx 10rpx rgba(228,63,66,.65) */
+}
+.icon-fanhui.data-v-729d9e0a {
+  font-size: 48rpx;
+  color: #fff;
+}
+

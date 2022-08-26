@@ -1,0 +1,219 @@
+
+page{
+	background-color: #f5f5f5;
+}
+
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.app.data-v-0e9671aa {
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app.data-v-0e9671aa:after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100rpx;
+}
+/* 标题简介 */
+.introduce.data-v-0e9671aa {
+  background: #fff;
+  padding: 20rpx 30rpx;
+}
+.introduce .title.data-v-0e9671aa {
+  min-height: 44rpx;
+  font-size: 32rpx;
+  color: #333;
+  line-height: 44rpx;
+  font-weight: 700;
+}
+.introduce .price-wrap.data-v-0e9671aa {
+  min-height: 40rpx;
+  margin-top: 28rpx;
+  font-size: 26rpx;
+}
+.introduce .m-price.data-v-0e9671aa {
+  margin-left: 10rpx;
+  margin-right: 16rpx;
+  color: #999;
+  text-decoration: line-through;
+}
+.introduce .tag.data-v-0e9671aa {
+  -webkit-transform: translateY(4rpx);
+          transform: translateY(4rpx);
+  padding: 0 10rpx;
+  margin-left: 8rpx;
+  background: #ff536f;
+  font-size: 20rpx;
+  color: #fff;
+  line-height: 32rpx;
+  border-radius: 4rpx;
+  position: relative;
+  bottom: 8rpx;
+}
+.introduce .bot.data-v-0e9671aa {
+  padding: 28rpx 0 10rpx 4rpx;
+  font-size: 24rpx;
+  color: #999;
+}
+/* 分享 */
+.share-wrap.data-v-0e9671aa {
+  /* background: linear-gradient(to right, #fdf5f6, #fbebf6); */
+  background: rgba(255, 83, 111, 0.06);
+  height: 76rpx;
+  padding: 0 30rpx;
+  color: #ff536f;
+}
+.share-wrap .icon.data-v-0e9671aa {
+  width: 90rpx;
+  height: 30rpx;
+  border: 1px solid #ff536f;
+  border-radius: 4rpx;
+  position: relative;
+  overflow: hidden;
+  font-size: 22rpx;
+}
+.share-wrap .icon.data-v-0e9671aa:after {
+  position: absolute;
+  left: -20rpx;
+  top: -12rpx;
+  content: '';
+  width: 50rpx;
+  height: 50rpx;
+  border-radius: 50%;
+  background-color: #ff536f;
+}
+.share-wrap .icon-iconfontxingxing.data-v-0e9671aa {
+  position: relative;
+  z-index: 1;
+  font-size: 24rpx;
+  margin-left: 2rpx;
+  margin-right: 10rpx;
+  color: #fff;
+}
+.share-wrap .tit.data-v-0e9671aa {
+  flex: 1;
+  font-size: 26rpx;
+  color: #666;
+  margin-left: 14rpx;
+}
+.share-wrap .icon-bangzhu1.data-v-0e9671aa {
+  padding: 10rpx;
+  font-size: 30rpx;
+  display: none;
+}
+.share-wrap .btn.data-v-0e9671aa {
+  padding-left: 20rpx;
+  font-size: 24rpx;
+  color: #ff536f;
+}
+.share-wrap .icon-you.data-v-0e9671aa {
+  font-size: 22rpx;
+  margin-left: 4rpx;
+  color: #ff536f;
+}
+.c-list.data-v-0e9671aa {
+  font-size: 26rpx;
+  color: #888;
+  background: #fff;
+}
+.c-list .row.data-v-0e9671aa {
+  min-height: 82rpx;
+  padding: 16rpx 30rpx;
+  position: relative;
+}
+.c-list .row.data-v-0e9671aa:after {
+  border-color: #eaeaea;
+}
+.c-list .row.data-v-0e9671aa:last-child:after {
+  border: 0;
+}
+.c-list .tit.data-v-0e9671aa {
+  width: 140rpx;
+}
+.c-list .con.data-v-0e9671aa {
+  flex: 1;
+  color: #333;
+}
+.c-list .con .attr.data-v-0e9671aa {
+  margin-right: 10rpx;
+}
+.c-list .con .service.data-v-0e9671aa {
+  margin-right: 30rpx;
+}
+.c-list .con .service.data-v-0e9671aa:last-child {
+  margin: 0;
+}
+.c-list .con-list.data-v-0e9671aa {
+  color: #333;
+}
+.c-list .con-list text.data-v-0e9671aa {
+  line-height: 40rpx;
+}
+.c-list .red.data-v-0e9671aa {
+  color: #ff536f;
+}
+.c-list .icon-you.data-v-0e9671aa {
+  font-size: 24rpx;
+  color: #999;
+}
+/* 评价 */
+.rating-wrap.data-v-0e9671aa {
+  padding: 20rpx 30rpx 0rpx;
+  background: #fff;
+  margin-top: 12rpx;
+}
+.rating-wrap.no-data.data-v-0e9671aa {
+  padding: 10rpx 30rpx 10rpx;
+}
+.rating-wrap .e-header.data-v-0e9671aa {
+  display: flex;
+  align-items: center;
+  height: 70rpx;
+  font-size: 28rpx;
+  color: #333;
+}
+.rating-wrap .tit.data-v-0e9671aa {
+  font-size: 32rpx;
+  color: #333;
+  font-weight: 700;
+  margin-right: 4rpx;
+}
+.rating-wrap .tip.data-v-0e9671aa {
+  flex: 1;
+  font-size: 26rpx;
+  color: #999;
+  text-align: right;
+}
+.rating-wrap .icon-you.data-v-0e9671aa {
+  margin-left: 8rpx;
+  font-size: 24rpx;
+  color: #999;
+}
+.rating-wrap .mix-rating-item.data-v-0e9671aa::after {
+  border: 0;
+}
+/*  详情 */
+.detail-desc.data-v-0e9671aa {
+  margin-top: 12rpx;
+  background: #fff;
+}
+.detail-desc .d-header.data-v-0e9671aa {
+  height: 80rpx;
+  font-size: 30rpx;
+  color: #333;
+}
+.detail-desc .d-header text.data-v-0e9671aa {
+  margin: 0 20rpx;
+}
+.detail-desc .d-header.data-v-0e9671aa:before, .detail-desc .d-header.data-v-0e9671aa:after {
+  content: '';
+  width: 60rpx;
+  border-bottom: 1px solid #ccc;
+}
+

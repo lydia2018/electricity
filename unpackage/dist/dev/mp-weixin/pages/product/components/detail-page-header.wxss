@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.mix-page-header.data-v-7824bddf {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 90;
+  justify-content: space-between;
+  width: 100%;
+}
+.btn.data-v-7824bddf {
+  width: 80rpx;
+}
+.icon-xiangzuo.data-v-7824bddf {
+  width: 52rpx;
+  height: 52rpx;
+  border-radius: 100rpx;
+  font-size: 36rpx;
+  color: #333;
+  text-align: center;
+  line-height: 52rpx;
+}
+.icon-xiangzuo.dark.data-v-7824bddf {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+.cen.data-v-7824bddf {
+  flex: 1;
+  height: 100%;
+  position: relative;
+}
+.cen .cen-item.data-v-7824bddf {
+  width: 50px;
+  height: 36px;
+  font-size: 15px;
+  color: #333;
+  text-align: center;
+  line-height: 36px;
+  position: relative;
+}
+.cen .active.data-v-7824bddf {
+  font-size: 17px;
+  font-weight: 700;
+}
+.cen .active.data-v-7824bddf:after {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  content: '';
+  width: 30px;
+  height: 2px;
+  background-color: #ff536f;
+  border-radius: 10rpx;
+}
+

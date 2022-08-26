@@ -1,0 +1,104 @@
+
+page{
+	background-color: #f7f7f7;
+}
+
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.app.data-v-30788154 {
+  padding: 2rpx 0 40rpx;
+}
+.main-wrap.data-v-30788154 {
+  padding: 0 20rpx;
+  opacity: 0;
+  transition: .2s;
+}
+.main-wrap.show.data-v-30788154 {
+  opacity: 1;
+}
+.page-tip.data-v-30788154 {
+  height: 92rpx;
+  padding-top: 10rpx;
+  font-size: 30rpx;
+  color: #333;
+  font-weight: bold;
+}
+.goods-sec.data-v-30788154 {
+  background-color: #fff;
+  border-radius: 10rpx 10rpx 0 0;
+  overflow: hidden;
+}
+.goods-sec.data-v-30788154 .list .title {
+  font-size: 28rpx;
+}
+.textarea-wrap.data-v-30788154 {
+  padding: 20rpx;
+  background-color: #fff;
+  border-radius: 12rpx;
+}
+.textarea-wrap textarea.data-v-30788154 {
+  width: 100%;
+  height: 200rpx;
+  font-size: 28rpx;
+  color: #333;
+  line-height: 1.4;
+}
+.price-sec.data-v-30788154 {
+  border-radius: 0 0 10rpx 10rpx;
+  background-color: #fff;
+}
+.price-sec .cell.data-v-30788154 {
+  height: 68rpx;
+  padding: 0 24rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.price-sec .total.data-v-30788154 {
+  justify-content: flex-end;
+  height: 88rpx;
+  padding-right: 20rpx;
+  font-size: 32rpx;
+  color: #ff536f;
+  font-weight: 700;
+}
+.price-sec .total .price.data-v-30788154:before {
+  content: '退款金额 ';
+  position: relative;
+  bottom: 2rpx;
+  color: #333;
+  font-size: 28rpx;
+  font-weight: normal;
+}
+.price-sec .tag.data-v-30788154 {
+  padding: 6rpx 8rpx;
+  margin-right: 8rpx;
+  font-size: 20rpx;
+  color: #fff;
+  border-radius: 8rpx;
+  background-color: orange;
+}
+.price-sec .tag.red.data-v-30788154 {
+  background-color: #ff536f;
+}
+.upload-wrap.data-v-30788154 {
+  padding: 24rpx 0 0 16rpx;
+  background-color: #fff;
+}
+.upload-wrap.data-v-30788154 .upload-content {
+  background-color: #fff;
+}
+.input-cell.data-v-30788154 {
+  padding: 0 30rpx;
+  height: 88rpx;
+  line-height: 88rpx;
+  font-size: 28rpx;
+  color: #333;
+  background-color: #f7f7f7;
+  border-radius: 12rpx;
+}
+

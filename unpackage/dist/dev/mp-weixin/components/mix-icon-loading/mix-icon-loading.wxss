@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.mix-icon-loading.data-v-6c62ca24 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+}
+.loading-icon.data-v-6c62ca24 {
+  width: 28rpx;
+  height: 28rpx;
+  border: 4rpx solid #ddd;
+  -webkit-animation: mix-loading-data-v-6c62ca24 1.8s steps(12) infinite;
+          animation: mix-loading-data-v-6c62ca24 1.8s steps(12) infinite;
+  border-radius: 100rpx;
+}
+@-webkit-keyframes mix-loading-data-v-6c62ca24 {
+from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+}
+to {
+    -webkit-transform: rotate(1turn);
+            transform: rotate(1turn);
+}
+}
+@keyframes mix-loading-data-v-6c62ca24 {
+from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+}
+to {
+    -webkit-transform: rotate(1turn);
+            transform: rotate(1turn);
+}
+}
+

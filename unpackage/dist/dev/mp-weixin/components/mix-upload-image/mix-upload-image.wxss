@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.upload-content {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #fff;
+}
+.upload-item {
+  position: relative;
+  width: 148rpx;
+  height: 148rpx;
+  margin-right: 28rpx;
+  margin-bottom: 24rpx;
+}
+.upload-item:nth-child(4n) {
+  margin-right: 0;
+}
+.upload-item .upload-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 8rpx;
+}
+.upload-item .upload-del-btn {
+  position: absolute;
+  right: -16rpx;
+  top: -14rpx;
+  z-index: 5;
+  width: 36rpx;
+  height: 36rpx;
+  border: 4rpx solid #fff;
+  border-radius: 100px;
+}
+.upload-item .upload-progress {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  font-size: 24rpx;
+  border-radius: 8rpx;
+}
+.upload-add-btn {
+  position: relative;
+  float: left;
+  width: 148rpx;
+  height: 148rpx;
+  margin-bottom: 24rpx;
+  z-index: 85;
+  border-radius: 8rpx;
+  background: #f7f7f7;
+}
+.upload-add-btn:before, .upload-add-btn:after {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 4rpx;
+  height: 60rpx;
+  background-color: #d6d6d6;
+}
+.upload-add-btn:after {
+  width: 60rpx;
+  height: 4rpx;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "间推用户",
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading"
+  }
+}

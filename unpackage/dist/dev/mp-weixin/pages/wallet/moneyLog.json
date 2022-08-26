@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "资金记录",
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading"
+  }
+}

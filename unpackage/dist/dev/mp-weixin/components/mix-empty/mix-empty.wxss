@@ -1,0 +1,132 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.mix-empty.data-v-1f10c77e {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  -webkit-animation: show-data-v-1f10c77e .5s 1;
+          animation: show-data-v-1f10c77e .5s 1;
+}
+@-webkit-keyframes show-data-v-1f10c77e {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+@keyframes show-data-v-1f10c77e {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+.default.data-v-1f10c77e {
+  padding-top: 26vh;
+}
+.default .icon.data-v-1f10c77e {
+  width: 460rpx;
+  height: 342rpx;
+}
+.default .text.data-v-1f10c77e {
+  margin-top: 10rpx;
+  font-size: 28rpx;
+  color: #999;
+}
+.cart.data-v-1f10c77e {
+  padding-top: 14vh;
+}
+.cart .icon.data-v-1f10c77e {
+  width: 320rpx;
+  height: 320rpx;
+}
+.cart .title.data-v-1f10c77e {
+  margin: 50rpx 0 26rpx;
+  font-size: 34rpx;
+  color: #333;
+}
+.cart .text.data-v-1f10c77e {
+  font-size: 28rpx;
+  color: #aaa;
+}
+.cart .btn.data-v-1f10c77e {
+  width: 320rpx;
+  height: 80rpx;
+  margin-top: 80rpx;
+  text-indent: 2rpx;
+  letter-spacing: 2rpx;
+  font-size: 32rpx;
+  color: #fff;
+  border-radius: 100rpx;
+  background: linear-gradient(to bottom right, #ffb2bf, #ff536f);
+}
+.address.data-v-1f10c77e {
+  padding-top: 6vh;
+}
+.address .icon.data-v-1f10c77e {
+  width: 380rpx;
+  height: 380rpx;
+}
+.address .text.data-v-1f10c77e {
+  width: 400rpx;
+  margin-top: 40rpx;
+  font-size: 30rpx;
+  color: #999;
+  text-align: center;
+  line-height: 1.6;
+}
+.address .btn.data-v-1f10c77e {
+  position: fixed;
+  left: 50%;
+  bottom: 120rpx;
+  width: 110rpx;
+  height: 110rpx;
+  background-color: #ff536f;
+  border-radius: 100rpx;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  box-shadow: 2rpx 2rpx 10rpx rgba(255, 83, 111, 0.5);
+}
+.address .icon-jia2.data-v-1f10c77e {
+  font-size: 50rpx;
+  color: #fff;
+}
+.favorite.data-v-1f10c77e {
+  padding-top: 6vh;
+}
+.favorite .icon.data-v-1f10c77e {
+  width: 360rpx;
+  height: 360rpx;
+}
+.favorite .text.data-v-1f10c77e {
+  width: 400rpx;
+  margin-top: 40rpx;
+  font-size: 30rpx;
+  color: #999;
+  text-align: center;
+  line-height: 1.6;
+}
+.favorite .btn.data-v-1f10c77e {
+  width: 320rpx;
+  height: 80rpx;
+  margin-top: 40rpx;
+  text-indent: 2rpx;
+  letter-spacing: 2rpx;
+  font-size: 32rpx;
+  color: #fff;
+  border-radius: 100rpx;
+  background: linear-gradient(to bottom right, #ffb2bf, #ff536f);
+}
+

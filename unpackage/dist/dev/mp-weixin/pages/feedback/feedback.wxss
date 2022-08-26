@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.app.data-v-91bba7b4 {
+  padding: 0 34rpx 40rpx;
+}
+.page-tip.data-v-91bba7b4 {
+  height: 80rpx;
+  padding: 8rpx 6rpx 0;
+  font-size: 26rpx;
+  color: #666;
+}
+.textarea-wrap.data-v-91bba7b4 {
+  padding: 20rpx;
+  background-color: #f7f7f7;
+  border-radius: 12rpx;
+}
+.textarea-wrap textarea.data-v-91bba7b4 {
+  width: 100%;
+  height: 200rpx;
+  font-size: 30rpx;
+  color: #333;
+  line-height: 1.4;
+}
+.upload-wrap.data-v-91bba7b4 {
+  padding-top: 0;
+}
+.upload-wrap.data-v-91bba7b4 .upload-content {
+  background-color: #fff;
+}
+.input-cell.data-v-91bba7b4 {
+  padding: 0 30rpx;
+  height: 88rpx;
+  line-height: 88rpx;
+  font-size: 28rpx;
+  color: #333;
+  background-color: #f7f7f7;
+  border-radius: 12rpx;
+}
+

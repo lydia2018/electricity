@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "usingComponents": {
+    "mix-nav-bar": "/components/mix-nav-bar/mix-nav-bar",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "mix-modal": "/components/mix-modal/mix-modal",
+    "mix-action-sheet": "/components/mix-action-sheet/mix-action-sheet",
+    "mescroll-body": "/components/mescroll-uni/mescroll-body"
+  }
+}

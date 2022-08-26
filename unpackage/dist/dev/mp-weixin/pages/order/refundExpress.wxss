@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.app.data-v-f9112d24 {
+  padding: 4rpx 30rpx;
+}
+.cell.data-v-f9112d24 {
+  height: 120rpx;
+  padding: 0 10rpx;
+  margin-top: 10rpx;
+  font-size: 30rpx;
+  color: #333;
+}
+.cell .tit.data-v-f9112d24 {
+  width: 150rpx;
+}
+.cell .input.data-v-f9112d24 {
+  flex: 1;
+  font-size: 30rpx;
+  color: #333;
+}
+.cell .icon-you.data-v-f9112d24 {
+  font-size: 24rpx;
+  color: #999;
+}
+.page-tip.data-v-f9112d24 {
+  padding: 6rpx 20rpx 20rpx 10rpx;
+  font-size: 28rpx;
+  color: #999;
+}
+.page-tip text.data-v-f9112d24 {
+  line-height: 1.5;
+}
+.addr-wrap.data-v-f9112d24 {
+  padding: 16rpx 30rpx;
+  background-color: #f7f7f7;
+  border-radius: 20rpx;
+}
+.addr-wrap .addr-cell.data-v-f9112d24 {
+  height: 66rpx;
+  font-size: 26rpx;
+  color: #555;
+}
+

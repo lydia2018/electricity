@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.app.data-v-0f632326 {
+  padding: 0 30rpx;
+}
+.app.data-v-0f632326 .mescroll-body-content {
+  padding-top: 10rpx;
+}
+

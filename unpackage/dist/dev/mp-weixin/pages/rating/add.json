@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商品评价",
+  "usingComponents": {
+    "mix-upload-image": "/components/mix-upload-image/mix-upload-image",
+    "mix-button": "/components/mix-button/mix-button",
+    "product-list": "/pages/order/components/product-list"
+  }
+}

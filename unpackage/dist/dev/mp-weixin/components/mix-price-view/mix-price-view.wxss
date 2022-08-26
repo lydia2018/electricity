@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.mix-price-view.data-v-a0c1a7f8 {
+  color: #ff536f;
+}
+.price.data-v-a0c1a7f8 {
+  font-weight: 700;
+}
+

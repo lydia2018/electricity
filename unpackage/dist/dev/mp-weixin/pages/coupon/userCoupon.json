@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的优惠券",
+  "usingComponents": {
+    "mix-nav-bar": "/components/mix-nav-bar/mix-nav-bar",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "mescroll-body": "/components/mescroll-uni/mescroll-body"
+  }
+}

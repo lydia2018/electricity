@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.mix-product-detail-swiper.data-v-1b8dc1d9 {
+  position: relative;
+}
+.swiper.data-v-1b8dc1d9 {
+  width: 750rpx;
+  height: 750rpx;
+}
+.image-wrapper.data-v-1b8dc1d9 {
+  flex-shrink: 0;
+  width: 750rpx;
+  height: 750rpx;
+  margin-right: 20rpx;
+  overflow: hidden;
+}
+.image-wrapper image.data-v-1b8dc1d9 {
+  width: 100%;
+  height: 100%;
+}
+.dots.data-v-1b8dc1d9 {
+  position: absolute;
+  left: 0;
+  bottom: 12rpx;
+  width: 100%;
+}
+.dot.data-v-1b8dc1d9 {
+  width: 32rpx;
+  height: 8rpx;
+  margin: 0 6rpx;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.dot.current.data-v-1b8dc1d9 {
+  background-color: #ff536f;
+}
+

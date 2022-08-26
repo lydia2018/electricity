@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "mix-list-cell": "/components/mix-list-cell/mix-list-cell",
+    "mix-modal": "/components/mix-modal/mix-modal"
+  }
+}

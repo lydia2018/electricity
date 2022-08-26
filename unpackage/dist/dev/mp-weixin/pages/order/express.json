@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "物流信息",
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading"
+  }
+}

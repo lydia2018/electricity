@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.app.data-v-201827c2 {
+  padding-top: 16rpx;
+}
+.cell.data-v-201827c2 {
+  display: flex;
+  align-items: center;
+  min-height: 110rpx;
+  padding: 0 40rpx;
+}
+.cell.data-v-201827c2:first-child {
+  margin-bottom: 10rpx;
+}
+.cell.data-v-201827c2:after {
+  left: 40rpx;
+  right: 40rpx;
+  border-color: #d8d8d8;
+}
+.cell .tit.data-v-201827c2 {
+  font-size: 30rpx;
+  color: #333;
+}
+.cell .avatar-wrap.data-v-201827c2 {
+  width: 120rpx;
+  height: 120rpx;
+  position: relative;
+  border-radius: 100rpx;
+  overflow: hidden;
+}
+.cell .avatar-wrap .avatar.data-v-201827c2 {
+  width: 100%;
+  height: 100%;
+  border-radius: 100rpx;
+}
+.cell .avatar-wrap .progress.data-v-201827c2 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 100rpx;
+  height: 100rpx;
+  box-shadow: rgba(0, 0, 0, 0.6) 0px 0px 0px 2005px;
+  border-radius: 100rpx;
+  transition: .5s;
+  opacity: 0;
+}
+.cell .avatar-wrap .progress.no-transtion.data-v-201827c2 {
+  transition: 0s;
+}
+.cell .avatar-wrap .progress.show.data-v-201827c2 {
+  opacity: 1;
+}
+.cell .input.data-v-201827c2 {
+  flex: 1;
+  text-align: right;
+  font-size: 28rpx;
+  color: #333;
+}
+.cell switch.data-v-201827c2 {
+  margin: 0;
+  -webkit-transform: scale(0.8) translateX(10rpx);
+          transform: scale(0.8) translateX(10rpx);
+  -webkit-transform-origin: center right;
+          transform-origin: center right;
+}
+.cell .tip.data-v-201827c2 {
+  margin-left: 20rpx;
+  font-size: 28rpx;
+  color: #999;
+}
+.cell .checkbox.data-v-201827c2 {
+  padding: 12rpx 0 12rpx 40rpx;
+  font-size: 28rpx;
+  color: #333;
+}
+.cell .checkbox .mix-icon.data-v-201827c2 {
+  margin-right: 12rpx;
+  font-size: 36rpx;
+  color: #ccc;
+}
+.cell .checkbox .icon-xuanzhong.data-v-201827c2 {
+  color: #ff536f;
+}
+

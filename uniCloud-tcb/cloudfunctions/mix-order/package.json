@@ -1,0 +1,19 @@
+{
+	"name": "mix-order",
+	"version": "1.0.0",
+	"description": "用户订单",
+	"main": "index.js",
+	"author": "yt",
+	"license": "ISC",
+	"dependencies": {
+		"config": "file:../common/config",
+		"md5-node": "^1.0.1",
+		"uni-id": "file:../../../uni_modules/uni-id/uniCloud/cloudfunctions/common/uni-id",
+		"unipay": "file:../common/unipay"
+	},
+	"cloudfunction-config": {
+		"memorySize": 1024,
+		"timeout": 20,
+		"runtime": "Nodejs8"
+	}
+}

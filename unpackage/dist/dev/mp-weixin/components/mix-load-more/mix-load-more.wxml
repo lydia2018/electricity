@@ -1,0 +1,1 @@
+<view class="data-v-772a0cdc"><view class="mix-load-more center data-v-772a0cdc"><block wx:if="{{status===1}}"><image class="loading-icon data-v-772a0cdc" src="/static/loading/hamster.gif"></image></block><text class="text data-v-772a0cdc">{{textList[status]}}</text></view></view>

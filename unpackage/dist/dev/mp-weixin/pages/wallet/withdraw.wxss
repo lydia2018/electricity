@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.center.data-v-04550e12 {
+  padding-top: 30vh;
+  font-size: 32rpx;
+  color: #333;
+}
+

@@ -1,0 +1,121 @@
+
+page{
+	background-color: #f8f8f8;
+}
+
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.data-v-4906f7b7 .mix-empty .default {
+  padding-top: 38vh;
+}
+.top.data-v-4906f7b7 {
+  position: fixed;
+  left: 0;
+  width: 100%;
+  z-index: 95;
+  background-color: #fff;
+}
+.sort-bar.data-v-4906f7b7 {
+  justify-content: space-around;
+  height: 76rpx;
+  padding: 4rpx 0 4rpx 4rpx;
+  padding-left: 10rpx;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.sort-bar .item.data-v-4906f7b7 {
+  flex: 1;
+  height: 100%;
+  font-size: 28rpx;
+  color: #333;
+  position: relative;
+  overflow: hidden;
+}
+.sort-bar .item.active.data-v-4906f7b7 {
+  color: #ff536f;
+  font-weight: 700;
+}
+.sort-bar .item.active.data-v-4906f7b7:after {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  -webkit-transform: translateX(-28rpx);
+          transform: translateX(-28rpx);
+  content: '';
+  width: 56rpx;
+  height: 4rpx;
+  background-color: #ff536f;
+  border-radius: 10px;
+}
+.sort-bar .item.active .mix-icon.active.data-v-4906f7b7 {
+  color: #ff536f;
+}
+.sort-bar .item.last.data-v-4906f7b7:before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 2rpx;
+  height: 40rpx;
+  box-shadow: 0 0 16rpx rgba(0, 0, 0, 0.6);
+}
+.sort-bar .icon-wrap.data-v-4906f7b7 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 8rpx;
+}
+.sort-bar .mix-icon.data-v-4906f7b7 {
+  font-size: 14rpx;
+  color: #bbb;
+}
+.sort-bar .btn.data-v-4906f7b7 {
+  height: 68rpx;
+  padding-left: 16rpx;
+  padding-right: 20rpx;
+}
+.sort-bar .btn .icon-hengxiangliebiao.data-v-4906f7b7, .sort-bar .btn .icon-shuxiangliebiao.data-v-4906f7b7 {
+  font-size: 40rpx;
+  color: #333;
+}
+.cate-bar.data-v-4906f7b7:after {
+  border-color: #f5f5f5;
+}
+.cate-wrap.data-v-4906f7b7 {
+  flex-wrap: nowrap;
+  height: 96rpx;
+  padding-bottom: 4rpx;
+}
+.cate-wrap .fill-view.data-v-4906f7b7 {
+  flex-shrink: 0;
+  width: 20rpx;
+  height: 20rpx;
+}
+.cate-wrap .fill-view.data-v-4906f7b7:last-child {
+  width: 10rpx;
+}
+.cate-wrap .item.data-v-4906f7b7 {
+  flex-shrink: 0;
+  height: 58rpx;
+  padding: 0 28rpx;
+  margin-right: 20rpx;
+  font-size: 22rpx;
+  color: #333;
+  text-align: center;
+  line-height: 58rpx;
+  background-color: #f5f5f5;
+  border-radius: 100px;
+}
+.cate-wrap .active.data-v-4906f7b7 {
+  color: #ff536f;
+  background-color: rgba(255, 83, 111, 0.08);
+  font-weight: 700;
+}
+

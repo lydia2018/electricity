@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "购物车",
+  "backgroundColorTop": "#fff",
+  "backgroundColorBottom": "#fff",
+  "usingComponents": {
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/components/uni-swipe-action-item/uni-swipe-action-item",
+    "mix-number-box": "/components/mix-number-box/mix-number-box",
+    "mix-empty": "/components/mix-empty/mix-empty",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "mix-modal": "/components/mix-modal/mix-modal"
+  }
+}

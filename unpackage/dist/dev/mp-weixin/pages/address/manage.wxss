@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.app.data-v-22e54ece {
+  padding: 10rpx 44rpx 0;
+}
+.cell.data-v-22e54ece {
+  height: 106rpx;
+}
+.cell .tit.data-v-22e54ece {
+  min-width: 130rpx;
+  font-size: 30rpx;
+  color: #333;
+}
+.cell .input.data-v-22e54ece {
+  flex: 1;
+  font-size: 30rpx;
+  color: #333;
+}
+.cell .icon-you.data-v-22e54ece {
+  flex-shrink: 0;
+  margin-right: 8rpx;
+  margin-left: 40rpx;
+  font-size: 24rpx;
+  color: #aaa;
+}
+.cell switch.data-v-22e54ece {
+  -webkit-transform: scale(0.8) translateX(10rpx);
+          transform: scale(0.8) translateX(10rpx);
+  -webkit-transform-origin: center right;
+          transform-origin: center right;
+}
+

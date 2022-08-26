@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "page-header": "/pages/product/components/list-page-header",
+    "mescroll-body": "/components/mescroll-uni/mescroll-body",
+    "product-list": "/pages/product/components/product-list"
+  }
+}

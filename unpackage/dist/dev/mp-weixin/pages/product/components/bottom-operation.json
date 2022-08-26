@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading"
+  },
+  "component": true
+}

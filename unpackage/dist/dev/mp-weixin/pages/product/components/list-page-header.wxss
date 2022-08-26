@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.content.data-v-9af92ba8 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 95;
+  width: 100%;
+  background-color: #fff;
+}
+.btn.data-v-9af92ba8 {
+  width: 44px;
+  height: 40px;
+  padding: 5px 12px;
+  position: relative;
+}
+.btn.data-v-9af92ba8:first-child {
+  width: 40px;
+}
+.btn .mix-icon.data-v-9af92ba8 {
+  font-size: 20px;
+  color: #333;
+}
+.btn .icon-hengxiangliebiao.data-v-9af92ba8, .btn .icon-shuxiangliebiao.data-v-9af92ba8 {
+  font-size: 23px;
+  color: #333;
+}
+.search-wrap.data-v-9af92ba8 {
+  flex: 1;
+  font-size: 14px;
+  color: #999;
+  border-radius: 100px;
+  background-color: #f3f3f3;
+}
+.search-wrap.has-keyword.data-v-9af92ba8 {
+  justify-content: flex-start;
+  padding-left: 20rpx;
+}
+.search-wrap.has-keyword .icon-sousuo.data-v-9af92ba8 {
+  font-size: 22px;
+  color: #777;
+}
+.search-wrap .icon-sousuo.data-v-9af92ba8 {
+  margin-right: 6px;
+  font-size: 18px;
+  color: #999;
+}
+.search-wrap .keyword.data-v-9af92ba8 {
+  padding: 6px 9px 6px 10px;
+  font-size: 12px;
+  color: #fff;
+  background-color: #888;
+  border-radius: 100px;
+}
+.search-wrap .keyword .icon-guanbi.data-v-9af92ba8 {
+  margin-left: 5px;
+  font-size: 8px;
+}
+

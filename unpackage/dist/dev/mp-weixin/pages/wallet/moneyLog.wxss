@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.item.data-v-7a098351 {
+  display: flex;
+  padding: 30rpx 30rpx 30rpx 24rpx;
+  background-color: #fff;
+}
+.item.data-v-7a098351:after {
+  left: 30rpx;
+  border-color: #e8e8e8;
+}
+.item .mix-icon.data-v-7a098351 {
+  flex-shrink: 0;
+  width: 72rpx;
+  font-size: 52rpx;
+  -webkit-transform: translateY(-6rpx);
+          transform: translateY(-6rpx);
+}
+.item .icon-tixian1.data-v-7a098351 {
+  color: #fd6663;
+}
+.item .icon-zhangdanmingxi01.data-v-7a098351 {
+  color: #ff893a;
+}
+.item .icon-chongzhi.data-v-7a098351 {
+  color: #39c585;
+}
+.item .left.data-v-7a098351 {
+  flex: 1;
+  overflow: hidden;
+}
+.item .tit.data-v-7a098351 {
+  font-size: 30rpx;
+  color: #333;
+  line-height: 1.4;
+  margin-bottom: 20rpx;
+}
+.item .time.data-v-7a098351 {
+  font-size: 24rpx;
+  color: #999;
+}
+.item .price.data-v-7a098351 {
+  font-size: 32rpx;
+  color: #ff536f;
+  font-weight: 700;
+}
+.item.income .price.data-v-7a098351 {
+  color: #00c700;
+}
+.item.income .icon-zhangdanmingxi01.data-v-7a098351 {
+  color: #39c585;
+}
+

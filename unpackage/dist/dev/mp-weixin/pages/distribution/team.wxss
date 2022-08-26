@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.item.data-v-ee7cd042 {
+  padding: 30rpx;
+}
+.item.data-v-ee7cd042:after {
+  left: 30rpx;
+  right: 30rpx;
+}
+.username.data-v-ee7cd042 {
+  margin-bottom: 24rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+}
+.time.data-v-ee7cd042 {
+  font-size: 24rpx;
+  color: #999;
+}
+.icon-you.data-v-ee7cd042 {
+  font-size: 24rpx;
+  color: #555;
+}
+

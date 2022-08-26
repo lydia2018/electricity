@@ -1,0 +1,1 @@
+<view class="{{['mescroll-empty','data-v-0d51d09c',(option.fixed)?'empty-fixed':'']}}" style="{{'z-index:'+(option.zIndex)+';'+('top:'+(option.top)+';')}}"><mix-empty vue-id="318c5f94-1" type="{{option.type}}" backgroundColor="{{option.backgroundColor}}" class="data-v-0d51d09c" bind:__l="__l"></mix-empty></view>

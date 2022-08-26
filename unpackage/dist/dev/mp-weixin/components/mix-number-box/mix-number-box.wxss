@@ -1,0 +1,39 @@
+
+.uni-numbox {
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	align-items: center;
+	height: 50rpx;
+}
+.uni-numbox-minus,
+.uni-numbox-plus {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 50rpx;
+	height: 100%;
+	line-height: 1;
+	background-color: #f7f7f7;
+}
+.uni-numbox-minus .mix-icon,
+.uni-numbox-plus .mix-icon{
+	font-size: 32rpx;
+	color: #333;
+}
+.uni-numbox-value {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #fff;
+	width: 60rpx;
+	height: 50rpx;
+	min-height: 50rpx;
+	text-align: center;
+	font-size: 28rpx;
+	color: #333;
+}
+.uni-numbox-disabled.mix-icon {
+	color: #C0C4CC;
+}
+

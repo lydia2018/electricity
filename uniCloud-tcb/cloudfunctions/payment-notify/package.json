@@ -1,0 +1,18 @@
+{
+	"name": "payment-notify",
+	"version": "1.0.0",
+	"description": "微信支付宝支付回调",
+	"main": "index.js",
+	"author": "yt",
+	"license": "ISC",
+	"dependencies": {
+		"config": "file:../common/config",
+		"unipay": "file:../common/unipay"
+	},
+	"cloudfunction-config": {
+		"memorySize": 256,
+		"timeout": 50,
+		"path": "/http/payment-notify",
+		"runtime": "Nodejs8"
+	}
+}

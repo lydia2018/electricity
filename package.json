@@ -1,0 +1,122 @@
+{
+	"id": "mix-guoyunshop",
+	"displayName": "创云商城-元旦特惠",
+	"version": "1.1.0",
+	"description": "云端一体全套电商系统，支持多端部署",
+	"keywords": [
+        "商城",
+        "国云商城",
+        "电商开发",
+        "电商系统开发",
+        "商城开发"
+    ],
+	"engines": {
+		"HBuilderX": "^3.1.12"
+	},
+	"dcloudext": {
+		"category": [
+			"uniCloud",
+			"云端一体项目模板"
+		],
+		"sale": {
+			"regular": {
+				"price": "588.00"
+			},
+			"sourcecode": {
+				"price": "1188.00"
+			}
+		},
+		"contact": {
+			"qq": "472045067"
+		},
+		"declaration": {
+			"ads": "无",
+			"data": "无",
+			"permissions": "无"
+		},
+		"npmurl": ""
+	},
+	"uni_modules": {
+		"encrypt": [
+			"uniCloud-tcb/cloudfunctions/mix-user/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-user/user/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-coupon/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-coupon/coupon/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-order/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-order/order/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-order/payment/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-address/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-address/address/index.js",
+			"uniCloud-tcb/cloudfunctions/payment-notify/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/advert/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/article/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/cart/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/express/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/favorite/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/feedback/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/notice/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/product/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/rating/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/search/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-uniapp/version/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/admin/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/advert/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/article/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/coupon/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/data-center/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/express/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/feedback/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/full-reduction/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/money/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/notice/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/order/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/product/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/rating/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/user/index.js",
+			"uniCloud-tcb/cloudfunctions/mix-admin/version/index.js"
+        ],
+        "platforms": {
+            "cloud": {
+                "tcb": "y",
+                "aliyun": "y"
+            },
+            "client": {
+                "Vue": {
+                    "vue2": "y",
+                    "vue3": "n"
+                },
+                "App": {
+                    "app-vue": "y",
+                    "app-nvue": "y"
+                },
+                "H5-mobile": {
+                    "Safari": "y",
+                    "Android Browser": "y",
+                    "微信浏览器(Android)": "y",
+                    "QQ浏览器(Android)": "y"
+                },
+                "H5-pc": {
+                    "Chrome": "n",
+                    "IE": "n",
+                    "Edge": "n",
+                    "Firefox": "n",
+                    "Safari": "n"
+                },
+                "小程序": {
+                    "微信": "y",
+                    "阿里": "u",
+                    "百度": "u",
+                    "字节跳动": "u",
+                    "QQ": "u"
+                },
+                "快应用": {
+                    "华为": "n",
+                    "联盟": "n"
+                }
+            }
+        }
+    },
+    "repository": ""
+}

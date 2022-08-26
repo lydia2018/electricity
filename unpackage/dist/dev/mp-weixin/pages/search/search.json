@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "mix-modal": "/components/mix-modal/mix-modal"
+  }
+}

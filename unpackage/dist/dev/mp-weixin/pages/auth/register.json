@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "注册",
+  "usingComponents": {
+    "mix-code": "/components/mix-code/mix-code",
+    "mix-button": "/components/mix-button/mix-button"
+  }
+}

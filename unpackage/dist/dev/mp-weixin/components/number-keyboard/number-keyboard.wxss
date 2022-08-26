@@ -1,0 +1,109 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.number-keyboard-component.data-v-3f7b0fdc {
+  width: 100%;
+  border-top: 1px solid #f1f4f4;
+}
+.number-keyboard-component .title.data-v-3f7b0fdc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60rpx;
+  background: #f0f0f0;
+}
+.number-keyboard-component .keys.data-v-3f7b0fdc {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.number-keyboard-component .keys .key.data-v-3f7b0fdc {
+  width: 250rpx;
+  height: 110rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid #f1f4f4;
+  box-sizing: border-box;
+  font-size: 36rpx;
+  font-weight: 700;
+  color: #333;
+}
+.number-keyboard-component .keys .key.data-v-3f7b0fdc:nth-child(n + 4) {
+  border-top: 1px solid #f1f4f4;
+  box-sizing: border-box;
+}
+.number-keyboard-component .container.data-v-3f7b0fdc {
+  width: 100%;
+}
+.number-keyboard-component .container .count-text.data-v-3f7b0fdc {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+}
+.number-keyboard-component .numberkeyboard-popup.data-v-3f7b0fdc {
+  width: 100%;
+  z-index: 10;
+}
+.number-keyboard-component .numberkeyboard-popup .count-text.data-v-3f7b0fdc {
+  position: fixed;
+  top: -100px;
+  font-size: 28px;
+  color: #ffffff;
+  width: 100%;
+  text-align: center;
+  font-weight: 500;
+}
+.number-keyboard-component .numberkeyboard-popup .count-text ._span.data-v-3f7b0fdc {
+  padding: 0 40px;
+  border-radius: 30px;
+  background: -webkit-linear-gradient(left top, #999999, #777777);
+}
+.number-keyboard-component .numberkeyboard-popup .desc-text.data-v-3f7b0fdc {
+  position: fixed;
+  top: -40px;
+  font-size: 12px;
+  color: #ffffff;
+  width: 100%;
+  text-align: center;
+  font-weight: 100;
+}
+.number-keyboard-component .numberkeyboard-popup .number.data-v-3f7b0fdc {
+  height: 70px;
+  line-height: 70px;
+  font-size: 25px;
+  font-weight: 400;
+  color: #666666;
+  border-right: 1px solid #999999;
+  box-sizing: border-box;
+}
+.number-keyboard-component .numberkeyboard-popup .number.data-v-3f7b0fdc:nth-child(n + 4) {
+  border-top: 1px solid #999999;
+  box-sizing: border-box;
+}
+.number-keyboard-component .numberkeyboard-popup .number.data-v-3f7b0fdc:active {
+  background: #04be02;
+  color: #ffffff;
+  border: 0px solid #000000;
+  box-shadow: 0 0 2px 2px #09bb07;
+  box-sizing: border-box;
+}
+.number-keyboard-component .numberkeyboard-popup .del.data-v-3f7b0fdc {
+  height: 140px;
+  vertical-align: middle;
+  line-height: 140px;
+  border-bottom: 0.1px solid #999999;
+  box-sizing: border-box;
+}
+.number-keyboard-component .numberkeyboard-popup .confirm.data-v-3f7b0fdc {
+  font-size: 15px;
+  height: 140px;
+  line-height: 140px;
+  color: #ffffff;
+}
+

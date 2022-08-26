@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "mix-price-view": "/components/mix-price-view/mix-price-view",
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "page-header": "/pages/product/components/detail-page-header",
+    "mix-swiper": "/pages/product/components/mix-swiper",
+    "rating-item": "/pages/rating/components/rating-item",
+    "bottom-operation": "/pages/product/components/bottom-operation",
+    "sku": "/pages/product/components/sku"
+  }
+}

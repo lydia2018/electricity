@@ -1,0 +1,109 @@
+
+page{
+	background-color: #f7f7f7;
+}
+
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.user-wrapper.data-v-6c693640 {
+  display: flex;
+  flex-direction: column;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  z-index: 5;
+  padding: 30rpx 30rpx 10rpx;
+}
+.user-wrapper .avatar.data-v-6c693640 {
+  flex-shrink: 0;
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 100px;
+  margin-right: 20rpx;
+  border: 2rpx solid #e0e0e0;
+}
+.user-wrapper .username.data-v-6c693640 {
+  color: #333;
+  font-weight: bold;
+}
+.user-wrapper .yqm.data-v-6c693640 {
+  margin: 16rpx 0 12rpx;
+  font-size: 24rpx;
+  color: #666;
+}
+.user-wrapper .tjr.data-v-6c693640 {
+  font-size: 24rpx;
+  color: #666;
+}
+.wrap.data-v-6c693640 {
+  width: 690rpx;
+  padding: 30rpx 0;
+  margin-top: 24rpx;
+  margin-left: 30rpx;
+  background-color: #fff;
+  border-radius: 16rpx;
+}
+.wrap .w-tit.data-v-6c693640 {
+  margin: 0 0 36rpx 30rpx;
+  font-size: 30rpx;
+  color: #333;
+  font-weight: bold;
+}
+.wrap .c-box.data-v-6c693640 {
+  flex: 1;
+  font-size: 24rpx;
+  color: #999;
+}
+.wrap .num.data-v-6c693640 {
+  margin-bottom: 24rpx;
+  font-size: 32rpx;
+  color: #333;
+  font-weight: bold;
+}
+.op-wrap.data-v-6c693640 {
+  flex-wrap: wrap;
+  padding: 20rpx 0;
+  /* background: linear-gradient(to bottom, #4ccccb, #3edede); */
+}
+.op-wrap .cell.data-v-6c693640 {
+  flex-shrink: 0;
+  width: 226rpx;
+  padding: 24rpx 0;
+  font-size: 24rpx;
+  color: #333;
+}
+.op-wrap .mix-icon.data-v-6c693640 {
+  width: 80rpx;
+  height: 80rpx;
+  margin-bottom: 20rpx;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 48rpx;
+  color: #fff;
+  background: linear-gradient(to bottom, #ff9436, #fdc763);
+  border-radius: 20rpx;
+}
+.op-wrap .icon-complete-fill.data-v-6c693640 {
+  background: linear-gradient(to bottom, #6898ed, #79b1fb);
+}
+.op-wrap .icon-jine.data-v-6c693640 {
+  background: linear-gradient(to bottom, #c654e0, #ec75b7);
+}
+.op-wrap .icon-a-ziyuan103.data-v-6c693640 {
+  background: linear-gradient(to bottom, #fd8672, #fd7370);
+}
+.tip-wrap.data-v-6c693640 {
+  padding: 30rpx 40rpx;
+}
+.tip-wrap .txt.data-v-6c693640 {
+  margin-bottom: 12rpx;
+  font-size: 24rpx;
+  color: #999;
+  line-height: 36rpx;
+}
+

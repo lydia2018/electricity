@@ -1,0 +1,17 @@
+{
+	"name": "mix-user",
+	"version": "1.0.0",
+	"description": "用户优惠券",
+	"main": "index.js",
+	"author": "yt",
+	"license": "ISC",
+	"dependencies": {
+		"uni-id": "file:../../../uni_modules/uni-id/uniCloud/cloudfunctions/common/uni-id"
+	},
+	"cloudfunction-config": {
+		"memorySize": 256,
+		"timeout": 20,
+		"runtime": "Nodejs8"
+	}
+}
+

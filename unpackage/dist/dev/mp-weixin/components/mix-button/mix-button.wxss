@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/* 全局主色 */
+/* 金额主色 */
+/* 
+  换皮以下不修改
+ */
+/* 配色 */
+.mix-btn-content.data-v-e43e0838 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 610rpx;
+  height: 88rpx;
+  margin: 0 auto;
+  font-size: 32rpx;
+  color: #fff;
+  border-radius: 100rpx;
+  background-color: #ff536f;
+  position: relative;
+}
+.mix-btn-content.data-v-e43e0838:after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 25%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 85%;
+  height: 85%;
+  background: linear-gradient(131deg, rgba(255, 83, 111, 0.2) 0%, rgba(255, 83, 111, 0.3) 100%);
+  border-radius: 100rpx;
+  opacity: 0.4;
+  -webkit-filter: blur(10rpx);
+          filter: blur(10rpx);
+}
+.mix-btn-content.disabled.data-v-e43e0838 {
+  opacity: .65;
+}
+.mix-btn-content .mix-text.data-v-e43e0838 {
+  position: relative;
+  z-index: 1;
+}
+.mix-btn-content .mix-icon.data-v-e43e0838 {
+  position: relative;
+  z-index: 1;
+  margin-right: 8rpx;
+}
+.mix-btn-content .loading-icon.data-v-e43e0838 {
+  width: 34rpx;
+  height: 34rpx;
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  margin-right: 16rpx;
+  -webkit-animation: rotate-data-v-e43e0838 2s linear infinite;
+          animation: rotate-data-v-e43e0838 2s linear infinite;
+  position: relative;
+  z-index: 1;
+}
+@-webkit-keyframes rotate-data-v-e43e0838 {
+from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+}
+to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+}
+}
+@keyframes rotate-data-v-e43e0838 {
+from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+}
+to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+}
+}
+

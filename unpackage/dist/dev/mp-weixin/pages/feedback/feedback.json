@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "意见反馈",
+  "usingComponents": {
+    "mix-upload-image": "/components/mix-upload-image/mix-upload-image",
+    "mix-button": "/components/mix-button/mix-button"
+  }
+}

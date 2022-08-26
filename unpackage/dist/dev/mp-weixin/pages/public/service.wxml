@@ -1,0 +1,1 @@
+<view style="background-color:#0094ff;"><web-view src="{{thirdService.url}}"></web-view></view>
